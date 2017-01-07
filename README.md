@@ -1,2 +1,3 @@
-# Okay
-defaults repo
+# Project Euler
+
+Ruby Solutions for project Euler problems
